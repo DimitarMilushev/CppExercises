@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1570924931 source:d:\repos\cpp tutorial\tutorial2\main.cpp
+	<iostream>
+	"Birthday.h"
+	"People.h"
+
+1570924881 d:\repos\cpp tutorial\tutorial2\include\birthday.h
+
+1570924680 d:\repos\cpp tutorial\tutorial2\include\people.h
+	<string>
+	"Birthday.h"
+
+1570924944 source:d:\repos\cpp tutorial\tutorial2\src\birthday.cpp
+	"Birthday.h"
+	<iostream>
+
+1570924747 source:d:\repos\cpp tutorial\tutorial2\src\people.cpp
+	"People.h"
+	<iostream>
+

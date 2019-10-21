@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570921230 source:d:\repos\cpp tutorial\tutorial\src\something.cpp
+	<iostream>
+	"something.h"
+
+1570921070 d:\repos\cpp tutorial\tutorial\include\something.h
+
+1571057414 source:d:\repos\cpp tutorial\tutorial\main.cpp
+	<iostream>
+	"something.h"
+
